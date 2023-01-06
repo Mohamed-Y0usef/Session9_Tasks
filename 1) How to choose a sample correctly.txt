@@ -1,0 +1,8 @@
+1) Understanding the problem.
+2) Collect the data(population).
+3) Understanding the data very well and choose the important feature from it.
+4) Based on my understanding of the data(population), I will choose the appropriate sampling Technique.
+5) The sample must describe all the data.
+6) The sample size is 40% maximum of the population and whenever the sample percentage is lower, whenever is better.
+7) The sample cannot be biased.
+8) The sample must be balanced.

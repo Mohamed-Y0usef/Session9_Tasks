@@ -1,0 +1,17 @@
+1) Continuous Distributions:
+  1- Normal Distribution
+  2- Student's-T Distribution
+  3- Chi-Squared Distribution
+  4- Exponential Distribution
+  5- Logistic Distribution
+
+2) Discrete Distributions:
+  1- Uniform Distribution
+  2- Bernoulli Distribution
+  3- Binomial Distribution
+  4- Poisson Distribution
+
+
+
+
+

@@ -1,0 +1,5 @@
+1) Exam Scores
+2) Newborn Weights
+3) Giraffe Heights
+4) Shoe Size
+5) Blood Pressure
